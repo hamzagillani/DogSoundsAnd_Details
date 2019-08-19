@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Dog Sounds with Details</string>
+
+    <string name="atika_details_1">The Akita is a medium breed of dog
+        originating from the mountainous regions of northern
+        Japan. There are two separate varieties of Akita: a Japanese
+        strain, commonly called "Akita Inu", or "Japanese Akita"; and 
+        an American strain, known as the "Akita" or "American Akita"</string>
+
+    <string name="boxer_dog_details_2">The Boxer is a medium-sized,
+        short-haired breed of dog, developed in Germany.
+        The coat is smooth and tight-fitting; colors are fawn brindled
+        or white, with or without white markings.</string>
+
+    <string name="cocker_spaniel_details_3">The English Cocker Spaniel is a breed of gun
+        dog. It is noteworthy for producing one of the most varied
+        numbers of pups in a litter among all dog breeds.
+        The English Cocker Spaniel is an active, good-natured,
+        sporting dog standing well
+        up at the withers and compactly built.</string>
+    <string name="doberman_dog_details_4">The Dobermann, or Doberman
+        Pinscher dog that was originally developed around 1890
+        by Karl Friedrich Louis Dobermann, a tax collector from Germany.
+        The Dobermann has a long muzzle.It stands
+        on its pads and is not usually heavy-footed.</string>
+
+    <string name="german_shepher_details_5">The German Shepherd is a
+        breed of medium to large sized working dog that originated in Germany.
+        In the English language, the breed s officially recognized
+        name is German Shepherd Dog. </string>
+
+    <string name="labrador_detalis_6">The Labrador Retriever, or just
+        Labrador, is a large type of retriever-gun dog. The Labrador
+        is one of the most popular breeds of dog in Canada,
+        the United Kingdom and the United States.</string>
+    <string name="pomeranian_details_7">The Pomeranian is a breed ofdog of
+        the Spitz type that is named for the Pomerania region in
+        north-west Poland and north-east Germany in Central Europe.
+        Classed as a toy dog breed because of its small size,
+        the Pomeranian is descended
+        from the larger Spitz-type dogs, specifically
+        the German Spitz.</string>
+    <string name="sheep_dog_details_8">A sheep dog or sheepdog is
+        generally a dog or breed of dogs historically used in connection
+        with the raising of sheep. These may include livestock guardian
+        or pastoral dogs used to guard sheep and other livestock in farms for farmers,
+        and herding dogs used to herd sheep and other livestock.</string>
+    <string name="siberian_husky_details_9">The Siberian Husky is a
+        medium size working dog breed that originated in Northeast Asia.
+        The breed belongs to the Spitz genetic family.
+        With proper training, they make great sled dogs.</string>
+    <string name="pointer_dog_10">The Pointer, often called the English
+        Pointer, is a medium to large-sized breed of dog, developed in
+        England as a gun dog. It is one of several pointing breeds.</string>
+    <string name="bulldog_details_11">The Bulldog, also known as the
+        British Bulldog or English Bulldog, is a medium-sized breed of dog.
+        It is a muscular, hefty dog with a wrinkled face and a
+        distinctive pushed-in nose. The American
+        Kennel Club,The Kennel Club,
+        and the United Kennel Club oversee breeding records.</string>
+
+    <string name="pub_dog_details_12">The pug is a breed of dog with
+        physically distinctive features of a wrinkly, short-muzzled face,
+        and curled tail. The breed has a fine,
+        glossy coat that comes in a variety of colours,
+        most often fawn or black,
+        and a compact square body with well-developed muscles.</string>
+
+
+    <string name="american_pitbull_details_13">The American Pit Bull Terrier is a purebred dog
+        breed recognized by the United Kennel Club and American Dog
+        Breeders Association, but not the American Kennel Club</string>
+
+    <string name="rottweiler_details_14">The Rottweiler is a breed of
+        domestic dog, regarded as medium-to-large or large.
+        The dogs were known in German as Rottweiler.</string>
+
+    <string name="chihuahua_dog_details_15">The Chihuahua is the smallest
+        breed of dog and is named after the state of Chihuahua in Mexico.
+        Chihuahuas possess a wide variety
+        of four colors and coat thicknesses.</string>
+
+
+
+
+
+
+</resources>
